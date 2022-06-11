@@ -1,0 +1,89 @@
+
+.App {
+  height: 625px;
+  text-align: center;
+  background: rgb(34,193,195);
+  background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%);
+}
+.navbar{
+  display: flex;
+  justify-content: space-around;
+  background-color: teal;
+  height: 40px;
+}
+.navbar a{
+  text-decoration: none;
+  color: white;
+  font-size: 25px;
+}
+.inputbox{
+  width: 85%;
+  height: 30px;
+}
+.inputbtn{
+  width: 12%;
+  background-color: aqua;
+  border: 0;
+  height: 35px;
+  margin-top: -10px;
+
+
+}
+.todoitembox{
+  border-radius: 5px;
+  width: 95%;
+  display: flex;
+  justify-content: space-evenly;
+  background-color: bisque;
+  margin: 10px auto;
+}
+.todos{
+  padding: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-color: teal;
+  width: 30%;
+  margin: 10px auto;
+  height: 550px;
+  border-radius: 10px;
+}
+.todosbox{
+  margin-top: 5px;
+  height: 510px;
+  overflow: auto;
+}
+.editbtn{
+  height: 30px;
+  border: 0;
+  width: 60px;
+  background-color: skyblue;
+  border-radius: 5px;
+  
+
+}
+.delbtn{
+  height: 30px;
+  border: 0;
+  width: 80px;
+  background-color: brown;
+  border-radius: 5px;
+}
+.totaltodosbox{
+  padding: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-color: teal;
+  width: 30%;
+  margin: 10px auto;
+  height: 450px;
+  overflow: auto;
+  border-radius: 10px;
+}
+.totaltodos{
+  border-radius: 5px;
+  width: 95%;
+  display: flex;
+  justify-content: space-evenly;
+  background-color: bisque;
+  margin: 10px auto;
+}

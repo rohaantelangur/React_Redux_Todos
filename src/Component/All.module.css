@@ -1,0 +1,15 @@
+.strike{
+    text-decoration: line-through;
+    color:silver;
+    font-size: 18px;
+    width: 150px;
+    text-align: left;
+}
+
+.nostrike{
+    text-decoration: none;
+    color:Black;
+    text-align: left;
+    width: 150px;
+    font-size: 18px;
+}

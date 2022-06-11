@@ -1,0 +1,44 @@
+{
+  "todosdb": [
+    {
+      "value": "DSA",
+      "isCompleted": true,
+      "id": 1
+    },
+    {
+      "value": "React",
+      "isCompleted": false,
+      "id": 2
+    },
+    {
+      "value": "Soft Skill",
+      "isCompleted": false,
+      "id": 3
+    },
+    {
+      "value": "HTML",
+      "isCompleted": true,
+      "id": 4
+    },
+    {
+      "value": "CSS",
+      "isCompleted": false,
+      "id": 5
+    },
+    {
+      "value": "JavaScripts",
+      "isCompleted": false,
+      "id": 6
+    },
+    {
+      "value": "Android",
+      "isCompleted": false,
+      "id": 8
+    },
+    {
+      "value": "BackEnd",
+      "isCompleted": false,
+      "id": 10
+    }
+  ]
+}
